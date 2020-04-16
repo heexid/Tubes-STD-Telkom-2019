@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555494386 source:d:\2. programing\c++\tubes_multi\brain.cpp
+	"brain.h"
+
+1555392931 source:d:\2. programing\c++\tubes_multi\main.cpp
+	"brain.h"
+
+1554997722 d:\2. programing\c++\tubes_multi\brain.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
